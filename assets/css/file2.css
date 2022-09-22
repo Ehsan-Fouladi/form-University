@@ -37,3 +37,10 @@
         border-color: lightgrey;
 
 }
+div.footer{
+    padding-top: 10px auto;
+    padding-bottom: 10px auto;
+    background-color: darkorange;
+    color: white;
+    font-size: large;
+}
